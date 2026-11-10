@@ -1,0 +1,3502 @@
+{
+ "meta": {
+  "source": "PCard-OSU-2014.csv",
+  "rows": 116031,
+  "year": 2014,
+  "dateRange": [
+   "2014-01-01",
+   "2014-12-31"
+  ],
+  "note": "Figures computed directly from the 116,032-row transaction extract."
+ },
+ "kpis": {
+  "netSpend": 33504148.34,
+  "grossSpend": 34133593.6,
+  "refunds": -629445.26,
+  "transactions": 116031,
+  "purchases": 112240,
+  "refundCount": 3791,
+  "vendors": 17508,
+  "cardholders": 2009,
+  "categories": 350,
+  "medianTicket": 99.97,
+  "meanTicket": 288.75,
+  "avgDailySpend": 91792.0,
+  "avgMonthlySpend": 2792012.0,
+  "avgTicketPerCardholder": 16677.0,
+  "singleTxnVendors": 10581,
+  "peakMonth": "Apr",
+  "peakMonthAmount": 3162984.96,
+  "lowMonth": "Dec",
+  "lowMonthAmount": 2188826.45,
+  "busiestDay": "2014-05-22",
+  "busiestDayAmount": 205682.83,
+  "quietDays": 0,
+  "top1pctTxnShare": 0.1446,
+  "top1pctTxnCount": 1160
+ },
+ "monthly": [
+  {
+   "month": 1,
+   "label": "Jan",
+   "spend": 2690764.59,
+   "count": 9599,
+   "cardholders": 1284,
+   "vendors": 2825,
+   "refunds": -44246.84,
+   "avgTicket": 280.32
+  },
+  {
+   "month": 2,
+   "label": "Feb",
+   "spend": 2676414.92,
+   "count": 9597,
+   "cardholders": 1292,
+   "vendors": 3021,
+   "refunds": -56681.98,
+   "avgTicket": 278.88
+  },
+  {
+   "month": 3,
+   "label": "Mar",
+   "spend": 2893305.96,
+   "count": 9899,
+   "cardholders": 1315,
+   "vendors": 3168,
+   "refunds": -56953.26,
+   "avgTicket": 292.28
+  },
+  {
+   "month": 4,
+   "label": "Apr",
+   "spend": 3162984.96,
+   "count": 10849,
+   "cardholders": 1355,
+   "vendors": 3319,
+   "refunds": -62924.43,
+   "avgTicket": 291.55
+  },
+  {
+   "month": 5,
+   "label": "May",
+   "spend": 3059989.72,
+   "count": 10152,
+   "cardholders": 1300,
+   "vendors": 3240,
+   "refunds": -50083.44,
+   "avgTicket": 301.42
+  },
+  {
+   "month": 6,
+   "label": "Jun",
+   "spend": 2870245.42,
+   "count": 9879,
+   "cardholders": 1266,
+   "vendors": 3108,
+   "refunds": -57933.48,
+   "avgTicket": 290.54
+  },
+  {
+   "month": 7,
+   "label": "Jul",
+   "spend": 2867722.48,
+   "count": 9516,
+   "cardholders": 1272,
+   "vendors": 3025,
+   "refunds": -54037.49,
+   "avgTicket": 301.36
+  },
+  {
+   "month": 8,
+   "label": "Aug",
+   "spend": 2864495.62,
+   "count": 9729,
+   "cardholders": 1274,
+   "vendors": 2980,
+   "refunds": -51738.28,
+   "avgTicket": 294.43
+  },
+  {
+   "month": 9,
+   "label": "Sep",
+   "spend": 2892690.72,
+   "count": 10226,
+   "cardholders": 1326,
+   "vendors": 3097,
+   "refunds": -34969.44,
+   "avgTicket": 282.88
+  },
+  {
+   "month": 10,
+   "label": "Oct",
+   "spend": 3037910.67,
+   "count": 10951,
+   "cardholders": 1356,
+   "vendors": 3320,
+   "refunds": -58721.39,
+   "avgTicket": 277.41
+  },
+  {
+   "month": 11,
+   "label": "Nov",
+   "spend": 2298796.83,
+   "count": 8727,
+   "cardholders": 1271,
+   "vendors": 2748,
+   "refunds": -48704.94,
+   "avgTicket": 263.41
+  },
+  {
+   "month": 12,
+   "label": "Dec",
+   "spend": 2188826.45,
+   "count": 6907,
+   "cardholders": 1215,
+   "vendors": 2337,
+   "refunds": -52450.29,
+   "avgTicket": 316.9
+  }
+ ],
+ "daily": [
+  {
+   "date": "2014-01-01",
+   "spend": 7412.37,
+   "count": 42
+  },
+  {
+   "date": "2014-01-02",
+   "spend": 68675.86,
+   "count": 214
+  },
+  {
+   "date": "2014-01-03",
+   "spend": 84865.04,
+   "count": 321
+  },
+  {
+   "date": "2014-01-04",
+   "spend": 11642.03,
+   "count": 71
+  },
+  {
+   "date": "2014-01-05",
+   "spend": 5906.07,
+   "count": 39
+  },
+  {
+   "date": "2014-01-06",
+   "spend": 132302.06,
+   "count": 373
+  },
+  {
+   "date": "2014-01-07",
+   "spend": 141253.7,
+   "count": 426
+  },
+  {
+   "date": "2014-01-08",
+   "spend": 121826.74,
+   "count": 461
+  },
+  {
+   "date": "2014-01-09",
+   "spend": 138995.58,
+   "count": 481
+  },
+  {
+   "date": "2014-01-10",
+   "spend": 127902.16,
+   "count": 445
+  },
+  {
+   "date": "2014-01-11",
+   "spend": 27666.96,
+   "count": 121
+  },
+  {
+   "date": "2014-01-12",
+   "spend": 10683.34,
+   "count": 70
+  },
+  {
+   "date": "2014-01-13",
+   "spend": 87170.34,
+   "count": 366
+  },
+  {
+   "date": "2014-01-14",
+   "spend": 126811.44,
+   "count": 443
+  },
+  {
+   "date": "2014-01-15",
+   "spend": 113932.29,
+   "count": 475
+  },
+  {
+   "date": "2014-01-16",
+   "spend": 146635.86,
+   "count": 481
+  },
+  {
+   "date": "2014-01-17",
+   "spend": 109975.31,
+   "count": 400
+  },
+  {
+   "date": "2014-01-18",
+   "spend": 32095.68,
+   "count": 162
+  },
+  {
+   "date": "2014-01-19",
+   "spend": 10602.96,
+   "count": 52
+  },
+  {
+   "date": "2014-01-20",
+   "spend": 36545.62,
+   "count": 145
+  },
+  {
+   "date": "2014-01-21",
+   "spend": 107938.22,
+   "count": 371
+  },
+  {
+   "date": "2014-01-22",
+   "spend": 105610.94,
+   "count": 404
+  },
+  {
+   "date": "2014-01-23",
+   "spend": 129570.88,
+   "count": 445
+  },
+  {
+   "date": "2014-01-24",
+   "spend": 148591.84,
+   "count": 419
+  },
+  {
+   "date": "2014-01-25",
+   "spend": 25313.81,
+   "count": 134
+  },
+  {
+   "date": "2014-01-26",
+   "spend": 7867.14,
+   "count": 66
+  },
+  {
+   "date": "2014-01-27",
+   "spend": 122625.46,
+   "count": 414
+  },
+  {
+   "date": "2014-01-28",
+   "spend": 109912.68,
+   "count": 427
+  },
+  {
+   "date": "2014-01-29",
+   "spend": 122773.54,
+   "count": 412
+  },
+  {
+   "date": "2014-01-30",
+   "spend": 116476.33,
+   "count": 473
+  },
+  {
+   "date": "2014-01-31",
+   "spend": 151182.34,
+   "count": 446
+  },
+  {
+   "date": "2014-02-01",
+   "spend": 31504.57,
+   "count": 154
+  },
+  {
+   "date": "2014-02-02",
+   "spend": 17649.78,
+   "count": 101
+  },
+  {
+   "date": "2014-02-03",
+   "spend": 107877.73,
+   "count": 369
+  },
+  {
+   "date": "2014-02-04",
+   "spend": 104838.24,
+   "count": 389
+  },
+  {
+   "date": "2014-02-05",
+   "spend": 123992.5,
+   "count": 508
+  },
+  {
+   "date": "2014-02-06",
+   "spend": 125032.01,
+   "count": 435
+  },
+  {
+   "date": "2014-02-07",
+   "spend": 125781.18,
+   "count": 412
+  },
+  {
+   "date": "2014-02-08",
+   "spend": 41054.44,
+   "count": 143
+  },
+  {
+   "date": "2014-02-09",
+   "spend": 11941.35,
+   "count": 76
+  },
+  {
+   "date": "2014-02-10",
+   "spend": 87961.87,
+   "count": 329
+  },
+  {
+   "date": "2014-02-11",
+   "spend": 139912.69,
+   "count": 475
+  },
+  {
+   "date": "2014-02-12",
+   "spend": 124669.32,
+   "count": 497
+  },
+  {
+   "date": "2014-02-13",
+   "spend": 103471.31,
+   "count": 451
+  },
+  {
+   "date": "2014-02-14",
+   "spend": 110645.54,
+   "count": 396
+  },
+  {
+   "date": "2014-02-15",
+   "spend": 27789.59,
+   "count": 128
+  },
+  {
+   "date": "2014-02-16",
+   "spend": 16523.66,
+   "count": 93
+  },
+  {
+   "date": "2014-02-17",
+   "spend": 94604.75,
+   "count": 376
+  },
+  {
+   "date": "2014-02-18",
+   "spend": 128377.58,
+   "count": 449
+  },
+  {
+   "date": "2014-02-19",
+   "spend": 140298.33,
+   "count": 458
+  },
+  {
+   "date": "2014-02-20",
+   "spend": 132136.22,
+   "count": 436
+  },
+  {
+   "date": "2014-02-21",
+   "spend": 131619.57,
+   "count": 414
+  },
+  {
+   "date": "2014-02-22",
+   "spend": 34108.57,
+   "count": 143
+  },
+  {
+   "date": "2014-02-23",
+   "spend": 18602.03,
+   "count": 99
+  },
+  {
+   "date": "2014-02-24",
+   "spend": 119602.22,
+   "count": 442
+  },
+  {
+   "date": "2014-02-25",
+   "spend": 149670.86,
+   "count": 466
+  },
+  {
+   "date": "2014-02-26",
+   "spend": 154299.6,
+   "count": 501
+  },
+  {
+   "date": "2014-02-27",
+   "spend": 156540.87,
+   "count": 436
+  },
+  {
+   "date": "2014-02-28",
+   "spend": 115908.54,
+   "count": 421
+  },
+  {
+   "date": "2014-03-01",
+   "spend": 36889.69,
+   "count": 178
+  },
+  {
+   "date": "2014-03-02",
+   "spend": 22508.9,
+   "count": 101
+  },
+  {
+   "date": "2014-03-03",
+   "spend": 37388.36,
+   "count": 183
+  },
+  {
+   "date": "2014-03-04",
+   "spend": 107825.76,
+   "count": 387
+  },
+  {
+   "date": "2014-03-05",
+   "spend": 143938.98,
+   "count": 480
+  },
+  {
+   "date": "2014-03-06",
+   "spend": 142701.22,
+   "count": 496
+  },
+  {
+   "date": "2014-03-07",
+   "spend": 131930.19,
+   "count": 427
+  },
+  {
+   "date": "2014-03-08",
+   "spend": 34317.13,
+   "count": 136
+  },
+  {
+   "date": "2014-03-09",
+   "spend": 8730.78,
+   "count": 50
+  },
+  {
+   "date": "2014-03-10",
+   "spend": 119376.42,
+   "count": 393
+  },
+  {
+   "date": "2014-03-11",
+   "spend": 172900.16,
+   "count": 568
+  },
+  {
+   "date": "2014-03-12",
+   "spend": 124477.66,
+   "count": 472
+  },
+  {
+   "date": "2014-03-13",
+   "spend": 157088.8,
+   "count": 518
+  },
+  {
+   "date": "2014-03-14",
+   "spend": 106362.44,
+   "count": 375
+  },
+  {
+   "date": "2014-03-15",
+   "spend": 35715.47,
+   "count": 136
+  },
+  {
+   "date": "2014-03-16",
+   "spend": 19901.11,
+   "count": 70
+  },
+  {
+   "date": "2014-03-17",
+   "spend": 102456.65,
+   "count": 379
+  },
+  {
+   "date": "2014-03-18",
+   "spend": 106589.21,
+   "count": 400
+  },
+  {
+   "date": "2014-03-19",
+   "spend": 160247.4,
+   "count": 451
+  },
+  {
+   "date": "2014-03-20",
+   "spend": 98055.06,
+   "count": 377
+  },
+  {
+   "date": "2014-03-21",
+   "spend": 78343.37,
+   "count": 270
+  },
+  {
+   "date": "2014-03-22",
+   "spend": 27751.62,
+   "count": 120
+  },
+  {
+   "date": "2014-03-23",
+   "spend": 29270.29,
+   "count": 92
+  },
+  {
+   "date": "2014-03-24",
+   "spend": 109130.64,
+   "count": 342
+  },
+  {
+   "date": "2014-03-25",
+   "spend": 153101.98,
+   "count": 471
+  },
+  {
+   "date": "2014-03-26",
+   "spend": 160215.91,
+   "count": 505
+  },
+  {
+   "date": "2014-03-27",
+   "spend": 143047.06,
+   "count": 442
+  },
+  {
+   "date": "2014-03-28",
+   "spend": 145853.9,
+   "count": 441
+  },
+  {
+   "date": "2014-03-29",
+   "spend": 50429.69,
+   "count": 183
+  },
+  {
+   "date": "2014-03-30",
+   "spend": 17757.28,
+   "count": 80
+  },
+  {
+   "date": "2014-03-31",
+   "spend": 109002.83,
+   "count": 376
+  },
+  {
+   "date": "2014-04-01",
+   "spend": 168690.96,
+   "count": 535
+  },
+  {
+   "date": "2014-04-02",
+   "spend": 149703.42,
+   "count": 507
+  },
+  {
+   "date": "2014-04-03",
+   "spend": 144763.44,
+   "count": 479
+  },
+  {
+   "date": "2014-04-04",
+   "spend": 134096.03,
+   "count": 477
+  },
+  {
+   "date": "2014-04-05",
+   "spend": 32740.66,
+   "count": 142
+  },
+  {
+   "date": "2014-04-06",
+   "spend": 19308.8,
+   "count": 60
+  },
+  {
+   "date": "2014-04-07",
+   "spend": 112493.63,
+   "count": 412
+  },
+  {
+   "date": "2014-04-08",
+   "spend": 133510.31,
+   "count": 492
+  },
+  {
+   "date": "2014-04-09",
+   "spend": 119106.7,
+   "count": 465
+  },
+  {
+   "date": "2014-04-10",
+   "spend": 171974.06,
+   "count": 522
+  },
+  {
+   "date": "2014-04-11",
+   "spend": 127840.13,
+   "count": 482
+  },
+  {
+   "date": "2014-04-12",
+   "spend": 33579.95,
+   "count": 141
+  },
+  {
+   "date": "2014-04-13",
+   "spend": 30869.59,
+   "count": 110
+  },
+  {
+   "date": "2014-04-14",
+   "spend": 116485.99,
+   "count": 370
+  },
+  {
+   "date": "2014-04-15",
+   "spend": 181707.21,
+   "count": 511
+  },
+  {
+   "date": "2014-04-16",
+   "spend": 134743.81,
+   "count": 455
+  },
+  {
+   "date": "2014-04-17",
+   "spend": 115007.11,
+   "count": 458
+  },
+  {
+   "date": "2014-04-18",
+   "spend": 87185.1,
+   "count": 326
+  },
+  {
+   "date": "2014-04-19",
+   "spend": 26481.47,
+   "count": 128
+  },
+  {
+   "date": "2014-04-20",
+   "spend": 7234.69,
+   "count": 42
+  },
+  {
+   "date": "2014-04-21",
+   "spend": 89281.48,
+   "count": 350
+  },
+  {
+   "date": "2014-04-22",
+   "spend": 136569.87,
+   "count": 467
+  },
+  {
+   "date": "2014-04-23",
+   "spend": 150059.22,
+   "count": 494
+  },
+  {
+   "date": "2014-04-24",
+   "spend": 152920.88,
+   "count": 441
+  },
+  {
+   "date": "2014-04-25",
+   "spend": 146938.02,
+   "count": 423
+  },
+  {
+   "date": "2014-04-26",
+   "spend": 25621.47,
+   "count": 145
+  },
+  {
+   "date": "2014-04-27",
+   "spend": 35819.57,
+   "count": 103
+  },
+  {
+   "date": "2014-04-28",
+   "spend": 110595.75,
+   "count": 374
+  },
+  {
+   "date": "2014-04-29",
+   "spend": 113486.93,
+   "count": 432
+  },
+  {
+   "date": "2014-04-30",
+   "spend": 154168.71,
+   "count": 506
+  },
+  {
+   "date": "2014-05-01",
+   "spend": 148518.11,
+   "count": 540
+  },
+  {
+   "date": "2014-05-02",
+   "spend": 92553.07,
+   "count": 339
+  },
+  {
+   "date": "2014-05-03",
+   "spend": 42146.56,
+   "count": 105
+  },
+  {
+   "date": "2014-05-04",
+   "spend": 10959.51,
+   "count": 56
+  },
+  {
+   "date": "2014-05-05",
+   "spend": 77651.58,
+   "count": 330
+  },
+  {
+   "date": "2014-05-06",
+   "spend": 138792.74,
+   "count": 506
+  },
+  {
+   "date": "2014-05-07",
+   "spend": 159314.69,
+   "count": 511
+  },
+  {
+   "date": "2014-05-08",
+   "spend": 130602.77,
+   "count": 484
+  },
+  {
+   "date": "2014-05-09",
+   "spend": 151211.89,
+   "count": 406
+  },
+  {
+   "date": "2014-05-10",
+   "spend": 30096.96,
+   "count": 131
+  },
+  {
+   "date": "2014-05-11",
+   "spend": 15538.07,
+   "count": 74
+  },
+  {
+   "date": "2014-05-12",
+   "spend": 83194.41,
+   "count": 334
+  },
+  {
+   "date": "2014-05-13",
+   "spend": 132202.17,
+   "count": 438
+  },
+  {
+   "date": "2014-05-14",
+   "spend": 137465.14,
+   "count": 438
+  },
+  {
+   "date": "2014-05-15",
+   "spend": 166398.95,
+   "count": 521
+  },
+  {
+   "date": "2014-05-16",
+   "spend": 144413.8,
+   "count": 462
+  },
+  {
+   "date": "2014-05-17",
+   "spend": 23234.77,
+   "count": 133
+  },
+  {
+   "date": "2014-05-18",
+   "spend": 15368.84,
+   "count": 75
+  },
+  {
+   "date": "2014-05-19",
+   "spend": 126302.69,
+   "count": 347
+  },
+  {
+   "date": "2014-05-20",
+   "spend": 136936.53,
+   "count": 429
+  },
+  {
+   "date": "2014-05-21",
+   "spend": 135594.23,
+   "count": 511
+  },
+  {
+   "date": "2014-05-22",
+   "spend": 205682.83,
+   "count": 450
+  },
+  {
+   "date": "2014-05-23",
+   "spend": 143632.3,
+   "count": 391
+  },
+  {
+   "date": "2014-05-24",
+   "spend": 23352.26,
+   "count": 96
+  },
+  {
+   "date": "2014-05-25",
+   "spend": 7827.94,
+   "count": 49
+  },
+  {
+   "date": "2014-05-26",
+   "spend": 8001.85,
+   "count": 48
+  },
+  {
+   "date": "2014-05-27",
+   "spend": 102461.78,
+   "count": 374
+  },
+  {
+   "date": "2014-05-28",
+   "spend": 155613.84,
+   "count": 482
+  },
+  {
+   "date": "2014-05-29",
+   "spend": 149873.64,
+   "count": 482
+  },
+  {
+   "date": "2014-05-30",
+   "spend": 133370.11,
+   "count": 464
+  },
+  {
+   "date": "2014-05-31",
+   "spend": 31675.69,
+   "count": 146
+  },
+  {
+   "date": "2014-06-01",
+   "spend": 19555.1,
+   "count": 121
+  },
+  {
+   "date": "2014-06-02",
+   "spend": 82340.13,
+   "count": 349
+  },
+  {
+   "date": "2014-06-03",
+   "spend": 155967.02,
+   "count": 482
+  },
+  {
+   "date": "2014-06-04",
+   "spend": 152299.47,
+   "count": 481
+  },
+  {
+   "date": "2014-06-05",
+   "spend": 141184.54,
+   "count": 456
+  },
+  {
+   "date": "2014-06-06",
+   "spend": 129687.64,
+   "count": 472
+  },
+  {
+   "date": "2014-06-07",
+   "spend": 32580.83,
+   "count": 133
+  },
+  {
+   "date": "2014-06-08",
+   "spend": 22811.85,
+   "count": 54
+  },
+  {
+   "date": "2014-06-09",
+   "spend": 107535.48,
+   "count": 362
+  },
+  {
+   "date": "2014-06-10",
+   "spend": 141422.0,
+   "count": 461
+  },
+  {
+   "date": "2014-06-11",
+   "spend": 144522.79,
+   "count": 473
+  },
+  {
+   "date": "2014-06-12",
+   "spend": 116964.24,
+   "count": 425
+  },
+  {
+   "date": "2014-06-13",
+   "spend": 94949.96,
+   "count": 374
+  },
+  {
+   "date": "2014-06-14",
+   "spend": 28879.18,
+   "count": 129
+  },
+  {
+   "date": "2014-06-15",
+   "spend": 7585.26,
+   "count": 52
+  },
+  {
+   "date": "2014-06-16",
+   "spend": 78139.49,
+   "count": 362
+  },
+  {
+   "date": "2014-06-17",
+   "spend": 159385.53,
+   "count": 491
+  },
+  {
+   "date": "2014-06-18",
+   "spend": 125607.37,
+   "count": 482
+  },
+  {
+   "date": "2014-06-19",
+   "spend": 139276.58,
+   "count": 486
+  },
+  {
+   "date": "2014-06-20",
+   "spend": 116635.58,
+   "count": 388
+  },
+  {
+   "date": "2014-06-21",
+   "spend": 13541.72,
+   "count": 122
+  },
+  {
+   "date": "2014-06-22",
+   "spend": 8281.89,
+   "count": 57
+  },
+  {
+   "date": "2014-06-23",
+   "spend": 124586.96,
+   "count": 358
+  },
+  {
+   "date": "2014-06-24",
+   "spend": 136963.56,
+   "count": 420
+  },
+  {
+   "date": "2014-06-25",
+   "spend": 189236.63,
+   "count": 506
+  },
+  {
+   "date": "2014-06-26",
+   "spend": 143521.82,
+   "count": 498
+  },
+  {
+   "date": "2014-06-27",
+   "spend": 105885.61,
+   "count": 379
+  },
+  {
+   "date": "2014-06-28",
+   "spend": 29536.7,
+   "count": 103
+  },
+  {
+   "date": "2014-06-29",
+   "spend": 12141.55,
+   "count": 56
+  },
+  {
+   "date": "2014-06-30",
+   "spend": 109218.94,
+   "count": 347
+  },
+  {
+   "date": "2014-07-01",
+   "spend": 123105.21,
+   "count": 408
+  },
+  {
+   "date": "2014-07-02",
+   "spend": 160386.54,
+   "count": 411
+  },
+  {
+   "date": "2014-07-03",
+   "spend": 96001.5,
+   "count": 338
+  },
+  {
+   "date": "2014-07-04",
+   "spend": 11696.08,
+   "count": 56
+  },
+  {
+   "date": "2014-07-05",
+   "spend": 6008.28,
+   "count": 35
+  },
+  {
+   "date": "2014-07-06",
+   "spend": 2820.93,
+   "count": 26
+  },
+  {
+   "date": "2014-07-07",
+   "spend": 99981.49,
+   "count": 336
+  },
+  {
+   "date": "2014-07-08",
+   "spend": 115278.67,
+   "count": 421
+  },
+  {
+   "date": "2014-07-09",
+   "spend": 134476.18,
+   "count": 462
+  },
+  {
+   "date": "2014-07-10",
+   "spend": 112551.55,
+   "count": 426
+  },
+  {
+   "date": "2014-07-11",
+   "spend": 128609.84,
+   "count": 422
+  },
+  {
+   "date": "2014-07-12",
+   "spend": 31306.01,
+   "count": 104
+  },
+  {
+   "date": "2014-07-13",
+   "spend": 7019.84,
+   "count": 28
+  },
+  {
+   "date": "2014-07-14",
+   "spend": 102738.64,
+   "count": 366
+  },
+  {
+   "date": "2014-07-15",
+   "spend": 136356.66,
+   "count": 447
+  },
+  {
+   "date": "2014-07-16",
+   "spend": 141077.08,
+   "count": 501
+  },
+  {
+   "date": "2014-07-17",
+   "spend": 136818.19,
+   "count": 445
+  },
+  {
+   "date": "2014-07-18",
+   "spend": 134900.72,
+   "count": 385
+  },
+  {
+   "date": "2014-07-19",
+   "spend": 19116.69,
+   "count": 72
+  },
+  {
+   "date": "2014-07-20",
+   "spend": 8398.33,
+   "count": 55
+  },
+  {
+   "date": "2014-07-21",
+   "spend": 90854.37,
+   "count": 356
+  },
+  {
+   "date": "2014-07-22",
+   "spend": 138088.67,
+   "count": 462
+  },
+  {
+   "date": "2014-07-23",
+   "spend": 130154.19,
+   "count": 437
+  },
+  {
+   "date": "2014-07-24",
+   "spend": 139238.92,
+   "count": 350
+  },
+  {
+   "date": "2014-07-25",
+   "spend": 104336.73,
+   "count": 368
+  },
+  {
+   "date": "2014-07-26",
+   "spend": 25023.96,
+   "count": 87
+  },
+  {
+   "date": "2014-07-27",
+   "spend": 14713.01,
+   "count": 57
+  },
+  {
+   "date": "2014-07-28",
+   "spend": 115656.09,
+   "count": 371
+  },
+  {
+   "date": "2014-07-29",
+   "spend": 149882.7,
+   "count": 438
+  },
+  {
+   "date": "2014-07-30",
+   "spend": 118875.64,
+   "count": 415
+  },
+  {
+   "date": "2014-07-31",
+   "spend": 132249.77,
+   "count": 431
+  },
+  {
+   "date": "2014-08-01",
+   "spend": 143121.63,
+   "count": 379
+  },
+  {
+   "date": "2014-08-02",
+   "spend": 29328.81,
+   "count": 132
+  },
+  {
+   "date": "2014-08-03",
+   "spend": 6600.92,
+   "count": 57
+  },
+  {
+   "date": "2014-08-04",
+   "spend": 106262.64,
+   "count": 349
+  },
+  {
+   "date": "2014-08-05",
+   "spend": 121066.0,
+   "count": 413
+  },
+  {
+   "date": "2014-08-06",
+   "spend": 123498.36,
+   "count": 443
+  },
+  {
+   "date": "2014-08-07",
+   "spend": 111419.45,
+   "count": 416
+  },
+  {
+   "date": "2014-08-08",
+   "spend": 111544.55,
+   "count": 401
+  },
+  {
+   "date": "2014-08-09",
+   "spend": 26835.75,
+   "count": 113
+  },
+  {
+   "date": "2014-08-10",
+   "spend": 8818.03,
+   "count": 44
+  },
+  {
+   "date": "2014-08-11",
+   "spend": 110052.25,
+   "count": 374
+  },
+  {
+   "date": "2014-08-12",
+   "spend": 167159.13,
+   "count": 481
+  },
+  {
+   "date": "2014-08-13",
+   "spend": 112142.19,
+   "count": 491
+  },
+  {
+   "date": "2014-08-14",
+   "spend": 138171.82,
+   "count": 486
+  },
+  {
+   "date": "2014-08-15",
+   "spend": 105562.96,
+   "count": 404
+  },
+  {
+   "date": "2014-08-16",
+   "spend": 17728.75,
+   "count": 104
+  },
+  {
+   "date": "2014-08-17",
+   "spend": 10099.06,
+   "count": 47
+  },
+  {
+   "date": "2014-08-18",
+   "spend": 104233.02,
+   "count": 273
+  },
+  {
+   "date": "2014-08-19",
+   "spend": 130019.02,
+   "count": 454
+  },
+  {
+   "date": "2014-08-20",
+   "spend": 149305.07,
+   "count": 500
+  },
+  {
+   "date": "2014-08-21",
+   "spend": 146426.27,
+   "count": 468
+  },
+  {
+   "date": "2014-08-22",
+   "spend": 120410.12,
+   "count": 447
+  },
+  {
+   "date": "2014-08-23",
+   "spend": 43677.96,
+   "count": 144
+  },
+  {
+   "date": "2014-08-24",
+   "spend": 6996.58,
+   "count": 49
+  },
+  {
+   "date": "2014-08-25",
+   "spend": 97083.34,
+   "count": 364
+  },
+  {
+   "date": "2014-08-26",
+   "spend": 142692.34,
+   "count": 450
+  },
+  {
+   "date": "2014-08-27",
+   "spend": 176368.19,
+   "count": 497
+  },
+  {
+   "date": "2014-08-28",
+   "spend": 152276.59,
+   "count": 455
+  },
+  {
+   "date": "2014-08-29",
+   "spend": 106341.96,
+   "count": 355
+  },
+  {
+   "date": "2014-08-30",
+   "spend": 27962.04,
+   "count": 97
+  },
+  {
+   "date": "2014-08-31",
+   "spend": 11290.82,
+   "count": 42
+  },
+  {
+   "date": "2014-09-01",
+   "spend": 10170.07,
+   "count": 68
+  },
+  {
+   "date": "2014-09-02",
+   "spend": 117894.03,
+   "count": 388
+  },
+  {
+   "date": "2014-09-03",
+   "spend": 111660.35,
+   "count": 467
+  },
+  {
+   "date": "2014-09-04",
+   "spend": 117753.47,
+   "count": 463
+  },
+  {
+   "date": "2014-09-05",
+   "spend": 161494.16,
+   "count": 483
+  },
+  {
+   "date": "2014-09-06",
+   "spend": 28947.84,
+   "count": 116
+  },
+  {
+   "date": "2014-09-07",
+   "spend": 10505.01,
+   "count": 60
+  },
+  {
+   "date": "2014-09-08",
+   "spend": 119065.28,
+   "count": 375
+  },
+  {
+   "date": "2014-09-09",
+   "spend": 126405.37,
+   "count": 439
+  },
+  {
+   "date": "2014-09-10",
+   "spend": 134879.8,
+   "count": 515
+  },
+  {
+   "date": "2014-09-11",
+   "spend": 137807.6,
+   "count": 485
+  },
+  {
+   "date": "2014-09-12",
+   "spend": 109791.47,
+   "count": 426
+  },
+  {
+   "date": "2014-09-13",
+   "spend": 28422.88,
+   "count": 128
+  },
+  {
+   "date": "2014-09-14",
+   "spend": 12596.15,
+   "count": 63
+  },
+  {
+   "date": "2014-09-15",
+   "spend": 110405.18,
+   "count": 407
+  },
+  {
+   "date": "2014-09-16",
+   "spend": 157220.57,
+   "count": 528
+  },
+  {
+   "date": "2014-09-17",
+   "spend": 142942.7,
+   "count": 466
+  },
+  {
+   "date": "2014-09-18",
+   "spend": 124648.43,
+   "count": 439
+  },
+  {
+   "date": "2014-09-19",
+   "spend": 117200.59,
+   "count": 419
+  },
+  {
+   "date": "2014-09-20",
+   "spend": 24461.41,
+   "count": 117
+  },
+  {
+   "date": "2014-09-21",
+   "spend": 10185.46,
+   "count": 62
+  },
+  {
+   "date": "2014-09-22",
+   "spend": 111626.56,
+   "count": 373
+  },
+  {
+   "date": "2014-09-23",
+   "spend": 122748.05,
+   "count": 443
+  },
+  {
+   "date": "2014-09-24",
+   "spend": 147072.32,
+   "count": 525
+  },
+  {
+   "date": "2014-09-25",
+   "spend": 136719.83,
+   "count": 468
+  },
+  {
+   "date": "2014-09-26",
+   "spend": 114061.61,
+   "count": 371
+  },
+  {
+   "date": "2014-09-27",
+   "spend": 38221.02,
+   "count": 124
+  },
+  {
+   "date": "2014-09-28",
+   "spend": 14236.12,
+   "count": 92
+  },
+  {
+   "date": "2014-09-29",
+   "spend": 116988.06,
+   "count": 391
+  },
+  {
+   "date": "2014-09-30",
+   "spend": 176559.33,
+   "count": 525
+  },
+  {
+   "date": "2014-10-01",
+   "spend": 161494.11,
+   "count": 548
+  },
+  {
+   "date": "2014-10-02",
+   "spend": 120492.15,
+   "count": 482
+  },
+  {
+   "date": "2014-10-03",
+   "spend": 116395.08,
+   "count": 428
+  },
+  {
+   "date": "2014-10-04",
+   "spend": 31769.05,
+   "count": 144
+  },
+  {
+   "date": "2014-10-05",
+   "spend": 12328.84,
+   "count": 67
+  },
+  {
+   "date": "2014-10-06",
+   "spend": 120738.96,
+   "count": 371
+  },
+  {
+   "date": "2014-10-07",
+   "spend": 106631.33,
+   "count": 445
+  },
+  {
+   "date": "2014-10-08",
+   "spend": 141163.53,
+   "count": 524
+  },
+  {
+   "date": "2014-10-09",
+   "spend": 97308.15,
+   "count": 426
+  },
+  {
+   "date": "2014-10-10",
+   "spend": 131170.02,
+   "count": 374
+  },
+  {
+   "date": "2014-10-11",
+   "spend": 35728.94,
+   "count": 148
+  },
+  {
+   "date": "2014-10-12",
+   "spend": 7984.28,
+   "count": 53
+  },
+  {
+   "date": "2014-10-13",
+   "spend": 93983.92,
+   "count": 342
+  },
+  {
+   "date": "2014-10-14",
+   "spend": 135842.92,
+   "count": 472
+  },
+  {
+   "date": "2014-10-15",
+   "spend": 125632.4,
+   "count": 424
+  },
+  {
+   "date": "2014-10-16",
+   "spend": 123004.02,
+   "count": 428
+  },
+  {
+   "date": "2014-10-17",
+   "spend": 109064.44,
+   "count": 411
+  },
+  {
+   "date": "2014-10-18",
+   "spend": 28258.57,
+   "count": 141
+  },
+  {
+   "date": "2014-10-19",
+   "spend": 18683.31,
+   "count": 100
+  },
+  {
+   "date": "2014-10-20",
+   "spend": 100071.92,
+   "count": 393
+  },
+  {
+   "date": "2014-10-21",
+   "spend": 137780.01,
+   "count": 501
+  },
+  {
+   "date": "2014-10-22",
+   "spend": 117133.21,
+   "count": 449
+  },
+  {
+   "date": "2014-10-23",
+   "spend": 142331.44,
+   "count": 472
+  },
+  {
+   "date": "2014-10-24",
+   "spend": 112090.91,
+   "count": 419
+  },
+  {
+   "date": "2014-10-25",
+   "spend": 30906.63,
+   "count": 119
+  },
+  {
+   "date": "2014-10-26",
+   "spend": 14832.12,
+   "count": 63
+  },
+  {
+   "date": "2014-10-27",
+   "spend": 115531.21,
+   "count": 352
+  },
+  {
+   "date": "2014-10-28",
+   "spend": 115838.2,
+   "count": 460
+  },
+  {
+   "date": "2014-10-29",
+   "spend": 151187.23,
+   "count": 519
+  },
+  {
+   "date": "2014-10-30",
+   "spend": 158028.88,
+   "count": 498
+  },
+  {
+   "date": "2014-10-31",
+   "spend": 124504.89,
+   "count": 378
+  },
+  {
+   "date": "2014-11-01",
+   "spend": 44636.52,
+   "count": 163
+  },
+  {
+   "date": "2014-11-02",
+   "spend": 8733.05,
+   "count": 60
+  },
+  {
+   "date": "2014-11-03",
+   "spend": 81072.76,
+   "count": 348
+  },
+  {
+   "date": "2014-11-04",
+   "spend": 122674.18,
+   "count": 502
+  },
+  {
+   "date": "2014-11-05",
+   "spend": 141629.37,
+   "count": 496
+  },
+  {
+   "date": "2014-11-06",
+   "spend": 159296.3,
+   "count": 503
+  },
+  {
+   "date": "2014-11-07",
+   "spend": 130657.21,
+   "count": 470
+  },
+  {
+   "date": "2014-11-08",
+   "spend": 36216.06,
+   "count": 172
+  },
+  {
+   "date": "2014-11-09",
+   "spend": 31370.48,
+   "count": 142
+  },
+  {
+   "date": "2014-11-10",
+   "spend": 84218.3,
+   "count": 324
+  },
+  {
+   "date": "2014-11-11",
+   "spend": 128512.68,
+   "count": 469
+  },
+  {
+   "date": "2014-11-12",
+   "spend": 128129.49,
+   "count": 517
+  },
+  {
+   "date": "2014-11-13",
+   "spend": 124097.99,
+   "count": 458
+  },
+  {
+   "date": "2014-11-14",
+   "spend": 99231.93,
+   "count": 416
+  },
+  {
+   "date": "2014-11-15",
+   "spend": 27604.43,
+   "count": 129
+  },
+  {
+   "date": "2014-11-16",
+   "spend": 11912.05,
+   "count": 81
+  },
+  {
+   "date": "2014-11-17",
+   "spend": 67666.95,
+   "count": 307
+  },
+  {
+   "date": "2014-11-18",
+   "spend": 92381.02,
+   "count": 448
+  },
+  {
+   "date": "2014-11-19",
+   "spend": 123968.2,
+   "count": 444
+  },
+  {
+   "date": "2014-11-20",
+   "spend": 116022.42,
+   "count": 451
+  },
+  {
+   "date": "2014-11-21",
+   "spend": 114994.51,
+   "count": 434
+  },
+  {
+   "date": "2014-11-22",
+   "spend": 32997.11,
+   "count": 112
+  },
+  {
+   "date": "2014-11-23",
+   "spend": 15159.81,
+   "count": 73
+  },
+  {
+   "date": "2014-11-24",
+   "spend": 101106.51,
+   "count": 285
+  },
+  {
+   "date": "2014-11-25",
+   "spend": 142848.81,
+   "count": 406
+  },
+  {
+   "date": "2014-11-26",
+   "spend": 87640.4,
+   "count": 310
+  },
+  {
+   "date": "2014-11-27",
+   "spend": 22823.6,
+   "count": 79
+  },
+  {
+   "date": "2014-11-28",
+   "spend": 9939.53,
+   "count": 53
+  },
+  {
+   "date": "2014-11-29",
+   "spend": 3606.67,
+   "count": 31
+  },
+  {
+   "date": "2014-11-30",
+   "spend": 7648.49,
+   "count": 44
+  },
+  {
+   "date": "2014-12-01",
+   "spend": 86102.66,
+   "count": 315
+  },
+  {
+   "date": "2014-12-02",
+   "spend": 128821.27,
+   "count": 400
+  },
+  {
+   "date": "2014-12-03",
+   "spend": 151221.66,
+   "count": 460
+  },
+  {
+   "date": "2014-12-04",
+   "spend": 140643.94,
+   "count": 420
+  },
+  {
+   "date": "2014-12-05",
+   "spend": 115986.22,
+   "count": 402
+  },
+  {
+   "date": "2014-12-06",
+   "spend": 31066.3,
+   "count": 127
+  },
+  {
+   "date": "2014-12-07",
+   "spend": 6142.14,
+   "count": 41
+  },
+  {
+   "date": "2014-12-08",
+   "spend": 121326.28,
+   "count": 344
+  },
+  {
+   "date": "2014-12-09",
+   "spend": 122881.1,
+   "count": 389
+  },
+  {
+   "date": "2014-12-10",
+   "spend": 104485.76,
+   "count": 388
+  },
+  {
+   "date": "2014-12-11",
+   "spend": 149455.26,
+   "count": 428
+  },
+  {
+   "date": "2014-12-12",
+   "spend": 126284.94,
+   "count": 374
+  },
+  {
+   "date": "2014-12-13",
+   "spend": 10896.32,
+   "count": 78
+  },
+  {
+   "date": "2014-12-14",
+   "spend": 3892.37,
+   "count": 35
+  },
+  {
+   "date": "2014-12-15",
+   "spend": 129812.0,
+   "count": 310
+  },
+  {
+   "date": "2014-12-16",
+   "spend": 121139.2,
+   "count": 400
+  },
+  {
+   "date": "2014-12-17",
+   "spend": 131855.52,
+   "count": 394
+  },
+  {
+   "date": "2014-12-18",
+   "spend": 106205.2,
+   "count": 370
+  },
+  {
+   "date": "2014-12-19",
+   "spend": 88121.88,
+   "count": 314
+  },
+  {
+   "date": "2014-12-20",
+   "spend": 23243.05,
+   "count": 90
+  },
+  {
+   "date": "2014-12-21",
+   "spend": 4057.52,
+   "count": 28
+  },
+  {
+   "date": "2014-12-22",
+   "spend": 85797.27,
+   "count": 231
+  },
+  {
+   "date": "2014-12-23",
+   "spend": 81378.74,
+   "count": 226
+  },
+  {
+   "date": "2014-12-24",
+   "spend": 44975.29,
+   "count": 74
+  },
+  {
+   "date": "2014-12-25",
+   "spend": 4016.78,
+   "count": 20
+  },
+  {
+   "date": "2014-12-26",
+   "spend": 5099.67,
+   "count": 37
+  },
+  {
+   "date": "2014-12-27",
+   "spend": 8503.86,
+   "count": 41
+  },
+  {
+   "date": "2014-12-28",
+   "spend": 6036.64,
+   "count": 20
+  },
+  {
+   "date": "2014-12-29",
+   "spend": 13502.13,
+   "count": 62
+  },
+  {
+   "date": "2014-12-30",
+   "spend": 31965.15,
+   "count": 81
+  },
+  {
+   "date": "2014-12-31",
+   "spend": 3910.33,
+   "count": 8
+  }
+ ],
+ "categories": [
+  {
+   "name": "dental/laboratory/medical/ophthalmic hosp eqip and sup.",
+   "spend": 2475758.68,
+   "count": 6543,
+   "share": 0.0739,
+   "avgTicket": 378.38
+  },
+  {
+   "name": "industrial supplies not elsewhere classified",
+   "spend": 1451575.7,
+   "count": 4651,
+   "share": 0.0433,
+   "avgTicket": 312.1
+  },
+  {
+   "name": "business services not elsewhere classified",
+   "spend": 1446174.85,
+   "count": 3767,
+   "share": 0.0432,
+   "avgTicket": 383.91
+  },
+  {
+   "name": "miscellaneous and specialty retail stores",
+   "spend": 1406160.44,
+   "count": 5412,
+   "share": 0.042,
+   "avgTicket": 259.82
+  },
+  {
+   "name": "commercial equipment, not elsewhere classified",
+   "spend": 1265726.79,
+   "count": 2845,
+   "share": 0.0378,
+   "avgTicket": 444.9
+  },
+  {
+   "name": "book stores",
+   "spend": 873288.87,
+   "count": 6801,
+   "share": 0.0261,
+   "avgTicket": 128.41
+  },
+  {
+   "name": "dirct marketing/dirct marketers--not elsewhere classified",
+   "spend": 850553.27,
+   "count": 1992,
+   "share": 0.0254,
+   "avgTicket": 426.98
+  },
+  {
+   "name": "electrical parts and equipment",
+   "spend": 782225.41,
+   "count": 2188,
+   "share": 0.0233,
+   "avgTicket": 357.51
+  },
+  {
+   "name": "stationery, office supplies, printing and writing paper",
+   "spend": 765950.74,
+   "count": 2864,
+   "share": 0.0229,
+   "avgTicket": 267.44
+  },
+  {
+   "name": "plumbing and heating equipment and supplies",
+   "spend": 716419.67,
+   "count": 2330,
+   "share": 0.0214,
+   "avgTicket": 307.48
+  },
+  {
+   "name": "electronics stores",
+   "spend": 641634.12,
+   "count": 1870,
+   "share": 0.0192,
+   "avgTicket": 343.12
+  },
+  {
+   "name": "catalog merchants",
+   "spend": 624807.58,
+   "count": 1480,
+   "share": 0.0186,
+   "avgTicket": 422.17
+  },
+  {
+   "name": "chemicals and allied products not elsewhere classified",
+   "spend": 541204.46,
+   "count": 2392,
+   "share": 0.0162,
+   "avgTicket": 226.26
+  },
+  {
+   "name": "government services--not elsewhere classified",
+   "spend": 532662.94,
+   "count": 1499,
+   "share": 0.0159,
+   "avgTicket": 355.35
+  },
+  {
+   "name": "eating places and restaurants",
+   "spend": 504991.5,
+   "count": 1847,
+   "share": 0.0151,
+   "avgTicket": 273.41
+  },
+  {
+   "name": "durable goods, not elsewhere classified",
+   "spend": 503819.37,
+   "count": 1081,
+   "share": 0.015,
+   "avgTicket": 466.07
+  },
+  {
+   "name": "membership organizations--not elsewhere classified",
+   "spend": 494474.22,
+   "count": 1033,
+   "share": 0.0148,
+   "avgTicket": 478.68
+  },
+  {
+   "name": "professional services not elsewhere classified",
+   "spend": 493742.69,
+   "count": 880,
+   "share": 0.0147,
+   "avgTicket": 561.07
+  }
+ ],
+ "categoryTotals": {
+  "top5Share": 0.2401,
+  "top10Share": 0.3592,
+  "tailCount": 332,
+  "tailSpend": 17132977.04,
+  "count": 350
+ },
+ "cardholders": [
+  {
+   "name": "hines, g",
+   "spend": 1595302.32,
+   "count": 3510,
+   "avgTicket": 454.5,
+   "share": 0.04762
+  },
+  {
+   "name": "tornakian, m",
+   "spend": 1182094.86,
+   "count": 2008,
+   "avgTicket": 588.69,
+   "share": 0.03528
+  },
+  {
+   "name": "heusel, j",
+   "spend": 627608.56,
+   "count": 2435,
+   "avgTicket": 257.74,
+   "share": 0.01873
+  },
+  {
+   "name": "fitzpatrick, s",
+   "spend": 437479.84,
+   "count": 342,
+   "avgTicket": 1279.18,
+   "share": 0.01306
+  },
+  {
+   "name": "bowers, r",
+   "spend": 392761.34,
+   "count": 2392,
+   "avgTicket": 164.2,
+   "share": 0.01172
+  },
+  {
+   "name": "munday, t",
+   "spend": 340329.11,
+   "count": 1102,
+   "avgTicket": 308.83,
+   "share": 0.01016
+  },
+  {
+   "name": "yarbrough-tessman, v",
+   "spend": 320016.94,
+   "count": 536,
+   "avgTicket": 597.05,
+   "share": 0.00955
+  },
+  {
+   "name": "teel, j",
+   "spend": 282056.99,
+   "count": 877,
+   "avgTicket": 321.62,
+   "share": 0.00842
+  },
+  {
+   "name": "clark, m",
+   "spend": 275898.62,
+   "count": 629,
+   "avgTicket": 438.63,
+   "share": 0.00823
+  },
+  {
+   "name": "turner, d",
+   "spend": 242938.28,
+   "count": 797,
+   "avgTicket": 304.82,
+   "share": 0.00725
+  },
+  {
+   "name": "bailey, j",
+   "spend": 222736.87,
+   "count": 725,
+   "avgTicket": 307.22,
+   "share": 0.00665
+  },
+  {
+   "name": "whitmore, d",
+   "spend": 209114.21,
+   "count": 555,
+   "avgTicket": 376.78,
+   "share": 0.00624
+  },
+  {
+   "name": "stover, c",
+   "spend": 193760.77,
+   "count": 122,
+   "avgTicket": 1588.2,
+   "share": 0.00578
+  },
+  {
+   "name": "forquer, h",
+   "spend": 176712.96,
+   "count": 401,
+   "avgTicket": 440.68,
+   "share": 0.00527
+  },
+  {
+   "name": "ropers, a",
+   "spend": 170611.36,
+   "count": 33,
+   "avgTicket": 5170.04,
+   "share": 0.00509
+  },
+  {
+   "name": "boettcher, c",
+   "spend": 170233.57,
+   "count": 539,
+   "avgTicket": 315.83,
+   "share": 0.00508
+  },
+  {
+   "name": "wood, c",
+   "spend": 162853.9,
+   "count": 443,
+   "avgTicket": 367.62,
+   "share": 0.00486
+  },
+  {
+   "name": "biggs, j",
+   "spend": 159631.12,
+   "count": 275,
+   "avgTicket": 580.48,
+   "share": 0.00476
+  },
+  {
+   "name": "kindred, a",
+   "spend": 158280.67,
+   "count": 305,
+   "avgTicket": 518.95,
+   "share": 0.00472
+  },
+  {
+   "name": "robinson, s",
+   "spend": 147586.06,
+   "count": 641,
+   "avgTicket": 230.24,
+   "share": 0.00441
+  }
+ ],
+ "pareto": [
+  {
+   "rank": 1,
+   "pctOfCardholders": 0.05,
+   "cumShare": 4.76
+  },
+  {
+   "rank": 2,
+   "pctOfCardholders": 0.1,
+   "cumShare": 8.29
+  },
+  {
+   "rank": 3,
+   "pctOfCardholders": 0.15,
+   "cumShare": 10.16
+  },
+  {
+   "rank": 4,
+   "pctOfCardholders": 0.2,
+   "cumShare": 11.47
+  },
+  {
+   "rank": 5,
+   "pctOfCardholders": 0.25,
+   "cumShare": 12.64
+  },
+  {
+   "rank": 6,
+   "pctOfCardholders": 0.3,
+   "cumShare": 13.66
+  },
+  {
+   "rank": 7,
+   "pctOfCardholders": 0.35,
+   "cumShare": 14.61
+  },
+  {
+   "rank": 8,
+   "pctOfCardholders": 0.4,
+   "cumShare": 15.45
+  },
+  {
+   "rank": 9,
+   "pctOfCardholders": 0.45,
+   "cumShare": 16.28
+  },
+  {
+   "rank": 10,
+   "pctOfCardholders": 0.5,
+   "cumShare": 17.0
+  },
+  {
+   "rank": 11,
+   "pctOfCardholders": 0.55,
+   "cumShare": 17.67
+  },
+  {
+   "rank": 12,
+   "pctOfCardholders": 0.6,
+   "cumShare": 18.29
+  },
+  {
+   "rank": 13,
+   "pctOfCardholders": 0.65,
+   "cumShare": 18.87
+  },
+  {
+   "rank": 14,
+   "pctOfCardholders": 0.7,
+   "cumShare": 19.4
+  },
+  {
+   "rank": 15,
+   "pctOfCardholders": 0.75,
+   "cumShare": 19.91
+  },
+  {
+   "rank": 16,
+   "pctOfCardholders": 0.8,
+   "cumShare": 20.41
+  },
+  {
+   "rank": 17,
+   "pctOfCardholders": 0.85,
+   "cumShare": 20.9
+  },
+  {
+   "rank": 18,
+   "pctOfCardholders": 0.9,
+   "cumShare": 21.38
+  },
+  {
+   "rank": 19,
+   "pctOfCardholders": 0.95,
+   "cumShare": 21.85
+  },
+  {
+   "rank": 20,
+   "pctOfCardholders": 1.0,
+   "cumShare": 22.29
+  },
+  {
+   "rank": 35,
+   "pctOfCardholders": 1.74,
+   "cumShare": 27.44
+  },
+  {
+   "rank": 50,
+   "pctOfCardholders": 2.49,
+   "cumShare": 31.68
+  },
+  {
+   "rank": 69,
+   "pctOfCardholders": 3.43,
+   "cumShare": 36.15
+  },
+  {
+   "rank": 100,
+   "pctOfCardholders": 4.98,
+   "cumShare": 42.18
+  },
+  {
+   "rank": 103,
+   "pctOfCardholders": 5.13,
+   "cumShare": 42.69
+  },
+  {
+   "rank": 137,
+   "pctOfCardholders": 6.82,
+   "cumShare": 47.95
+  },
+  {
+   "rank": 152,
+   "pctOfCardholders": 7.57,
+   "cumShare": 50.03
+  },
+  {
+   "rank": 171,
+   "pctOfCardholders": 8.51,
+   "cumShare": 52.5
+  },
+  {
+   "rank": 201,
+   "pctOfCardholders": 10.0,
+   "cumShare": 56.04
+  },
+  {
+   "rank": 205,
+   "pctOfCardholders": 10.2,
+   "cumShare": 56.48
+  },
+  {
+   "rank": 239,
+   "pctOfCardholders": 11.9,
+   "cumShare": 60.07
+  },
+  {
+   "rank": 273,
+   "pctOfCardholders": 13.59,
+   "cumShare": 63.29
+  },
+  {
+   "rank": 300,
+   "pctOfCardholders": 14.93,
+   "cumShare": 65.64
+  },
+  {
+   "rank": 307,
+   "pctOfCardholders": 15.28,
+   "cumShare": 66.22
+  },
+  {
+   "rank": 341,
+   "pctOfCardholders": 16.97,
+   "cumShare": 68.88
+  },
+  {
+   "rank": 375,
+   "pctOfCardholders": 18.67,
+   "cumShare": 71.29
+  },
+  {
+   "rank": 409,
+   "pctOfCardholders": 20.36,
+   "cumShare": 73.49
+  },
+  {
+   "rank": 443,
+   "pctOfCardholders": 22.05,
+   "cumShare": 75.49
+  },
+  {
+   "rank": 477,
+   "pctOfCardholders": 23.74,
+   "cumShare": 77.31
+  },
+  {
+   "rank": 500,
+   "pctOfCardholders": 24.89,
+   "cumShare": 78.43
+  },
+  {
+   "rank": 511,
+   "pctOfCardholders": 25.44,
+   "cumShare": 78.95
+  },
+  {
+   "rank": 545,
+   "pctOfCardholders": 27.13,
+   "cumShare": 80.49
+  },
+  {
+   "rank": 579,
+   "pctOfCardholders": 28.82,
+   "cumShare": 81.93
+  },
+  {
+   "rank": 613,
+   "pctOfCardholders": 30.51,
+   "cumShare": 83.28
+  },
+  {
+   "rank": 647,
+   "pctOfCardholders": 32.21,
+   "cumShare": 84.52
+  },
+  {
+   "rank": 681,
+   "pctOfCardholders": 33.9,
+   "cumShare": 85.68
+  },
+  {
+   "rank": 715,
+   "pctOfCardholders": 35.59,
+   "cumShare": 86.77
+  },
+  {
+   "rank": 749,
+   "pctOfCardholders": 37.28,
+   "cumShare": 87.79
+  },
+  {
+   "rank": 783,
+   "pctOfCardholders": 38.97,
+   "cumShare": 88.75
+  },
+  {
+   "rank": 817,
+   "pctOfCardholders": 40.67,
+   "cumShare": 89.66
+  },
+  {
+   "rank": 851,
+   "pctOfCardholders": 42.36,
+   "cumShare": 90.51
+  },
+  {
+   "rank": 885,
+   "pctOfCardholders": 44.05,
+   "cumShare": 91.32
+  },
+  {
+   "rank": 919,
+   "pctOfCardholders": 45.74,
+   "cumShare": 92.07
+  },
+  {
+   "rank": 953,
+   "pctOfCardholders": 47.44,
+   "cumShare": 92.78
+  },
+  {
+   "rank": 987,
+   "pctOfCardholders": 49.13,
+   "cumShare": 93.44
+  },
+  {
+   "rank": 1000,
+   "pctOfCardholders": 49.78,
+   "cumShare": 93.68
+  },
+  {
+   "rank": 1022,
+   "pctOfCardholders": 50.87,
+   "cumShare": 94.06
+  },
+  {
+   "rank": 1056,
+   "pctOfCardholders": 52.56,
+   "cumShare": 94.62
+  },
+  {
+   "rank": 1090,
+   "pctOfCardholders": 54.26,
+   "cumShare": 95.13
+  },
+  {
+   "rank": 1124,
+   "pctOfCardholders": 55.95,
+   "cumShare": 95.61
+  },
+  {
+   "rank": 1158,
+   "pctOfCardholders": 57.64,
+   "cumShare": 96.05
+  },
+  {
+   "rank": 1192,
+   "pctOfCardholders": 59.33,
+   "cumShare": 96.46
+  },
+  {
+   "rank": 1226,
+   "pctOfCardholders": 61.03,
+   "cumShare": 96.84
+  },
+  {
+   "rank": 1260,
+   "pctOfCardholders": 62.72,
+   "cumShare": 97.18
+  },
+  {
+   "rank": 1294,
+   "pctOfCardholders": 64.41,
+   "cumShare": 97.5
+  },
+  {
+   "rank": 1328,
+   "pctOfCardholders": 66.1,
+   "cumShare": 97.8
+  },
+  {
+   "rank": 1362,
+   "pctOfCardholders": 67.79,
+   "cumShare": 98.06
+  },
+  {
+   "rank": 1396,
+   "pctOfCardholders": 69.49,
+   "cumShare": 98.31
+  },
+  {
+   "rank": 1430,
+   "pctOfCardholders": 71.18,
+   "cumShare": 98.54
+  },
+  {
+   "rank": 1464,
+   "pctOfCardholders": 72.87,
+   "cumShare": 98.75
+  },
+  {
+   "rank": 1498,
+   "pctOfCardholders": 74.56,
+   "cumShare": 98.94
+  },
+  {
+   "rank": 1532,
+   "pctOfCardholders": 76.26,
+   "cumShare": 99.1
+  },
+  {
+   "rank": 1566,
+   "pctOfCardholders": 77.95,
+   "cumShare": 99.25
+  },
+  {
+   "rank": 1600,
+   "pctOfCardholders": 79.64,
+   "cumShare": 99.38
+  },
+  {
+   "rank": 1634,
+   "pctOfCardholders": 81.33,
+   "cumShare": 99.5
+  },
+  {
+   "rank": 1668,
+   "pctOfCardholders": 83.03,
+   "cumShare": 99.6
+  },
+  {
+   "rank": 1702,
+   "pctOfCardholders": 84.72,
+   "cumShare": 99.69
+  },
+  {
+   "rank": 1736,
+   "pctOfCardholders": 86.41,
+   "cumShare": 99.76
+  },
+  {
+   "rank": 1770,
+   "pctOfCardholders": 88.1,
+   "cumShare": 99.82
+  },
+  {
+   "rank": 1804,
+   "pctOfCardholders": 89.8,
+   "cumShare": 99.87
+  },
+  {
+   "rank": 1838,
+   "pctOfCardholders": 91.49,
+   "cumShare": 99.92
+  },
+  {
+   "rank": 1872,
+   "pctOfCardholders": 93.18,
+   "cumShare": 99.95
+  },
+  {
+   "rank": 1906,
+   "pctOfCardholders": 94.87,
+   "cumShare": 99.97
+  },
+  {
+   "rank": 1940,
+   "pctOfCardholders": 96.57,
+   "cumShare": 99.99
+  },
+  {
+   "rank": 1974,
+   "pctOfCardholders": 98.26,
+   "cumShare": 100.0
+  },
+  {
+   "rank": 2009,
+   "pctOfCardholders": 100.0,
+   "cumShare": 100.0
+  }
+ ],
+ "concentration": {
+  "top10Pct": 17.0,
+  "top50Pct": 31.68,
+  "top100Pct": 42.18,
+  "top10pctOfPeopleShare": 56.04,
+  "medianCardholderSpend": 5959.78,
+  "cardholdersUnder10k": 1275,
+  "cardholdersUnder1k": 368,
+  "topSpender": "hines, g",
+  "topSpenderSpend": 1595302.32,
+  "topSpenderCount": 3510
+ },
+ "heatmap": {
+  "names": [
+   "hines, g",
+   "tornakian, m",
+   "heusel, j",
+   "fitzpatrick, s",
+   "bowers, r",
+   "munday, t",
+   "yarbrough-tessman, v",
+   "teel, j",
+   "clark, m"
+  ],
+  "months": [
+   "Jan",
+   "Feb",
+   "Mar",
+   "Apr",
+   "May",
+   "Jun",
+   "Jul",
+   "Aug",
+   "Sep",
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "values": [
+   [
+    149700.14,
+    109682.82,
+    153774.22,
+    147219.43,
+    164111.86,
+    176844.86,
+    137953.2,
+    146289.9,
+    129820.1,
+    140436.29,
+    76969.6,
+    62499.9
+   ],
+   [
+    112598.39,
+    110591.38,
+    113441.46,
+    134802.33,
+    80555.52,
+    80015.17,
+    95919.46,
+    79539.79,
+    109472.43,
+    93010.89,
+    100626.01,
+    71522.03
+   ],
+   [
+    110190.56,
+    95862.41,
+    77203.22,
+    96795.87,
+    99099.45,
+    106698.7,
+    29934.04,
+    5372.01,
+    1187.44,
+    718.54,
+    2385.79,
+    2160.53
+   ],
+   [
+    72128.93,
+    54912.77,
+    7610.14,
+    62103.25,
+    30695.4,
+    19219.34,
+    28796.21,
+    10161.91,
+    44528.11,
+    42584.35,
+    33111.68,
+    31627.75
+   ],
+   [
+    37935.56,
+    26710.21,
+    24913.62,
+    35197.03,
+    36303.79,
+    42841.91,
+    49647.62,
+    34850.67,
+    32919.81,
+    30089.03,
+    17873.65,
+    23478.44
+   ],
+   [
+    0.0,
+    2368.25,
+    -1415.9,
+    277.21,
+    15681.18,
+    30801.2,
+    68451.55,
+    91423.91,
+    79156.45,
+    53645.06,
+    0.0,
+    -59.8
+   ],
+   [
+    20537.59,
+    29225.81,
+    24672.78,
+    22000.43,
+    40856.63,
+    13978.13,
+    44353.17,
+    26590.8,
+    28134.28,
+    25958.07,
+    22742.67,
+    20966.58
+   ],
+   [
+    11734.54,
+    10181.04,
+    24694.59,
+    18380.95,
+    14624.67,
+    24292.7,
+    23351.29,
+    19784.22,
+    35522.45,
+    49364.99,
+    29365.63,
+    20759.92
+   ],
+   [
+    12947.18,
+    16672.73,
+    24601.13,
+    15332.13,
+    15628.59,
+    22171.81,
+    30137.44,
+    37685.77,
+    26467.91,
+    36152.57,
+    24902.36,
+    13199.0
+   ]
+  ]
+ },
+ "vendors": [
+  {
+   "name": "amazon.com",
+   "spend": 442489.82,
+   "count": 3168,
+   "share": 0.01321
+  },
+  {
+   "name": "amazon mktplace pmts",
+   "spend": 403152.27,
+   "count": 3683,
+   "share": 0.01203
+  },
+  {
+   "name": "lowes #00241",
+   "spend": 368887.18,
+   "count": 4107,
+   "share": 0.01101
+  },
+  {
+   "name": "vwr international inc",
+   "spend": 366372.17,
+   "count": 1803,
+   "share": 0.01094
+  },
+  {
+   "name": "ww grainger",
+   "spend": 277091.82,
+   "count": 1127,
+   "share": 0.00827
+  },
+  {
+   "name": "tfs fishersci ecom hus",
+   "spend": 271055.58,
+   "count": 822,
+   "share": 0.00809
+  },
+  {
+   "name": "rexel2442",
+   "spend": 250642.83,
+   "count": 902,
+   "share": 0.00748
+  },
+  {
+   "name": "b&c business products",
+   "spend": 219194.84,
+   "count": 919,
+   "share": 0.00654
+  },
+  {
+   "name": "allegra print and imaging",
+   "spend": 213012.08,
+   "count": 516,
+   "share": 0.00636
+  },
+  {
+   "name": "sigma aldrich us",
+   "spend": 207491.42,
+   "count": 918,
+   "share": 0.00619
+  },
+  {
+   "name": "kinnunen sales & rent",
+   "spend": 202550.1,
+   "count": 824,
+   "share": 0.00605
+  },
+  {
+   "name": "staples       00105288",
+   "spend": 195093.56,
+   "count": 2022,
+   "share": 0.00582
+  },
+  {
+   "name": "stillwater milling comp",
+   "spend": 192955.52,
+   "count": 1017,
+   "share": 0.00576
+  },
+  {
+   "name": "ok dept of vo-tech ed",
+   "spend": 190377.83,
+   "count": 511,
+   "share": 0.00568
+  },
+  {
+   "name": "fenton office supply",
+   "spend": 146821.82,
+   "count": 312,
+   "share": 0.00438
+  },
+  {
+   "name": "stillwater screenprinting",
+   "spend": 145358.04,
+   "count": 219,
+   "share": 0.00434
+  },
+  {
+   "name": "dearinger printing & trop",
+   "spend": 144521.35,
+   "count": 746,
+   "share": 0.00431
+  },
+  {
+   "name": "www.newegg.com",
+   "spend": 143953.08,
+   "count": 379,
+   "share": 0.0043
+  },
+  {
+   "name": "oklahoma city winnelso",
+   "spend": 137166.03,
+   "count": 503,
+   "share": 0.00409
+  },
+  {
+   "name": "burk oil co inc",
+   "spend": 136315.73,
+   "count": 138,
+   "share": 0.00407
+  }
+ ],
+ "vendorConcentration": {
+  "top10Pct": 9.01,
+  "top50Pct": 22.43,
+  "top100Pct": 30.27,
+  "singleTxn": 10581,
+  "singleTxnShare": 14.05,
+  "medianVendorSpend": 355.83,
+  "total": 17508,
+  "totalSpend": 33504148.34
+ },
+ "vendorBuckets": [
+  {
+   "label": "1 transaction",
+   "vendors": 10581,
+   "spend": 4709003.77
+  },
+  {
+   "label": "2-5",
+   "vendors": 4677,
+   "spend": 6320807.34
+  },
+  {
+   "label": "6-20",
+   "vendors": 1601,
+   "spend": 6177286.48
+  },
+  {
+   "label": "21-100",
+   "vendors": 532,
+   "spend": 6905293.33
+  },
+  {
+   "label": "100+",
+   "vendors": 117,
+   "spend": 9391757.42
+  }
+ ],
+ "cardholderBuckets": [
+  {
+   "label": "Under $1k",
+   "people": 364,
+   "spend": 160670.83
+  },
+  {
+   "label": "$1k-5k",
+   "people": 564,
+   "spend": 1534595.23
+  },
+  {
+   "label": "$5k-10k",
+   "people": 343,
+   "spend": 2544273.33
+  },
+  {
+   "label": "$10k-25k",
+   "people": 393,
+   "spend": 6188073.71
+  },
+  {
+   "label": "$25k-100k",
+   "people": 302,
+   "spend": 13476624.66
+  },
+  {
+   "label": "$100k+",
+   "people": 39,
+   "spend": 9600202.14
+  }
+ ],
+ "histogram": [
+  {
+   "label": "$0-10",
+   "low": 0,
+   "high": 10,
+   "count": 6097,
+   "spend": 38211.19
+  },
+  {
+   "label": "$10-25",
+   "low": 10,
+   "high": 25,
+   "count": 12374,
+   "spend": 214015.19
+  },
+  {
+   "label": "$25-50",
+   "low": 25,
+   "high": 50,
+   "count": 16189,
+   "spend": 584131.81
+  },
+  {
+   "label": "$50-100",
+   "low": 50,
+   "high": 100,
+   "count": 19666,
+   "spend": 1428147.01
+  },
+  {
+   "label": "$100-200",
+   "low": 100,
+   "high": 200,
+   "count": 19358,
+   "spend": 2788389.22
+  },
+  {
+   "label": "$200-300",
+   "low": 200,
+   "high": 300,
+   "count": 9914,
+   "spend": 2444364.75
+  },
+  {
+   "label": "$300-500",
+   "low": 300,
+   "high": 500,
+   "count": 11160,
+   "spend": 4317764.96
+  },
+  {
+   "label": "$500-750",
+   "low": 500,
+   "high": 750,
+   "count": 6493,
+   "spend": 3947984.61
+  },
+  {
+   "label": "$750-1,000",
+   "low": 750,
+   "high": 1000,
+   "count": 3410,
+   "spend": 2944144.64
+  },
+  {
+   "label": "$1,000-1,500",
+   "low": 1000,
+   "high": 1500,
+   "count": 3233,
+   "spend": 3936387.91
+  },
+  {
+   "label": "$1,500-2,000",
+   "low": 1500,
+   "high": 2000,
+   "count": 1575,
+   "spend": 2711046.52
+  },
+  {
+   "label": "$2,000-3,000",
+   "low": 2000,
+   "high": 3000,
+   "count": 1552,
+   "spend": 3756530.23
+  },
+  {
+   "label": "$3,000-5,000",
+   "low": 3000,
+   "high": 5000,
+   "count": 1166,
+   "spend": 4564604.65
+  },
+  {
+   "label": "$5,000+",
+   "low": 5000,
+   "high": 100000,
+   "count": 53,
+   "spend": 457870.91
+  }
+ ],
+ "bands": [
+  {
+   "label": "Under $100",
+   "count": 54641,
+   "spend": 2296005.2,
+   "share": 0.0685
+  },
+  {
+   "label": "$100-500",
+   "count": 40314,
+   "spend": 9617518.93,
+   "share": 0.2871
+  },
+  {
+   "label": "$500-1k",
+   "count": 9777,
+   "spend": 6864629.25,
+   "share": 0.2049
+  },
+  {
+   "label": "$1k-2.5k",
+   "count": 5751,
+   "spend": 8860849.14,
+   "share": 0.2645
+  },
+  {
+   "label": "$2.5k-5k",
+   "count": 1724,
+   "spend": 6136720.17,
+   "share": 0.1832
+  },
+  {
+   "label": "Over $5k",
+   "count": 33,
+   "spend": 357870.91,
+   "share": 0.0107
+  },
+  {
+   "label": "Refunds",
+   "count": 3791,
+   "spend": -629445.26,
+   "share": -0.0188
+  }
+ ],
+ "percentiles": [
+  {
+   "p": 50,
+   "value": 99.97
+  },
+  {
+   "p": 75,
+   "value": 296.7
+  },
+  {
+   "p": 90,
+   "value": 715.4
+  },
+  {
+   "p": 95,
+   "value": 1221.95
+  },
+  {
+   "p": 99,
+   "value": 3047.02
+  },
+  {
+   "p": 99.5,
+   "value": 3929.61
+  },
+  {
+   "p": 99.9,
+   "value": 4950.0
+  }
+ ],
+ "outliers": [
+  {
+   "date": "2014-08-18",
+   "name": "clark, c",
+   "vendor": "oec otis elevator co",
+   "amount": 29731.61,
+   "mcc": "dirct marketing/dirct marketers--not elsewhere classified",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-05-22",
+   "name": "ropers, a",
+   "vendor": "wingate manhattan",
+   "amount": 27657.55,
+   "mcc": "lodging--hotels,motels,and resorts",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-05-23",
+   "name": "ropers, a",
+   "vendor": "hampton inn & suites crn",
+   "amount": 22764.84,
+   "mcc": "hampton inns",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-09-08",
+   "name": "ropers, a",
+   "vendor": "magdalene college",
+   "amount": 21243.93,
+   "mcc": "business services not elsewhere classified",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-12-24",
+   "name": "stover, c",
+   "vendor": "cockrell eyecare center",
+   "amount": 19233.28,
+   "mcc": "opticians and dispensing",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-08-28",
+   "name": "ropers, a",
+   "vendor": "southwes    5262393866444",
+   "amount": 16517.2,
+   "mcc": "southwest airlines",
+   "description": "air travel"
+  },
+  {
+   "date": "2014-09-24",
+   "name": "williams, j",
+   "vendor": "hilton boston downtown",
+   "amount": 15327.36,
+   "mcc": "hilton hotels",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-08-01",
+   "name": "bilbeisi, s",
+   "vendor": "rown nyc fd",
+   "amount": 13186.64,
+   "mcc": "lodging--hotels,motels,and resorts",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-01-24",
+   "name": "clark, c",
+   "vendor": "tlc painting",
+   "amount": 12600.0,
+   "mcc": "special trade contractors--not elsewhere classified",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-04-04",
+   "name": "clark, c",
+   "vendor": "aabb-amer. asso. blood",
+   "amount": 12380.0,
+   "mcc": "membership organizations--not elsewhere classified",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-07-23",
+   "name": "ropers, a",
+   "vendor": "nasa catering 10550515",
+   "amount": 11944.42,
+   "mcc": "caterers",
+   "description": "general purchase"
+  },
+  {
+   "date": "2014-04-30",
+   "name": "stover, c",
+   "vendor": "embassy suites central",
+   "amount": 11643.75,
+   "mcc": "embassy suites",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-04-13",
+   "name": "stover, c",
+   "vendor": "waterfront place hotel",
+   "amount": 10299.66,
+   "mcc": "lodging--hotels,motels,and resorts",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-03-20",
+   "name": "stover, c",
+   "vendor": "courtyard by marriott arl",
+   "amount": 10153.35,
+   "mcc": "courtyard by marriott",
+   "description": "room charges"
+  },
+  {
+   "date": "2014-02-28",
+   "name": "ropers, a",
+   "vendor": "topgolf colony f&b",
+   "amount": 9770.4,
+   "mcc": "eating places and restaurants",
+   "description": "general purchase"
+  }
+ ],
+ "weekday": [
+  {
+   "day": "Mon",
+   "spend": 4987921.19,
+   "count": 17217
+  },
+  {
+   "day": "Tue",
+   "spend": 6780399.49,
+   "count": 22806
+  },
+  {
+   "day": "Wed",
+   "spend": 6908396.71,
+   "count": 23662
+  },
+  {
+   "day": "Thu",
+   "spend": 6730925.55,
+   "count": 22632
+  },
+  {
+   "day": "Fri",
+   "spend": 5929974.31,
+   "count": 19996
+  },
+  {
+   "day": "Sat",
+   "spend": 1482222.38,
+   "count": 6331
+  },
+  {
+   "day": "Sun",
+   "spend": 684308.71,
+   "count": 3387
+  }
+ ],
+ "refundDrivers": [
+  {
+   "name": "dental/laboratory/medical/ophthalmic hosp eqip and sup.",
+   "amount": -33459.32
+  },
+  {
+   "name": "industrial supplies not elsewhere classified",
+   "amount": -31559.22
+  },
+  {
+   "name": "commercial equipment, not elsewhere classified",
+   "amount": -28667.23
+  },
+  {
+   "name": "electrical parts and equipment",
+   "amount": -26182.36
+  },
+  {
+   "name": "miscellaneous and specialty retail stores",
+   "amount": -26143.31
+  },
+  {
+   "name": "business services not elsewhere classified",
+   "amount": -21688.42
+  }
+ ],
+ "refundMonthly": [
+  {
+   "label": "Jan",
+   "amount": -44246.84,
+   "count": 265
+  },
+  {
+   "label": "Feb",
+   "amount": -56681.98,
+   "count": 316
+  },
+  {
+   "label": "Mar",
+   "amount": -56953.26,
+   "count": 325
+  },
+  {
+   "label": "Apr",
+   "amount": -62924.43,
+   "count": 322
+  },
+  {
+   "label": "May",
+   "amount": -50083.44,
+   "count": 357
+  },
+  {
+   "label": "Jun",
+   "amount": -57933.48,
+   "count": 347
+  },
+  {
+   "label": "Jul",
+   "amount": -54037.49,
+   "count": 320
+  },
+  {
+   "label": "Aug",
+   "amount": -51738.28,
+   "count": 280
+  },
+  {
+   "label": "Sep",
+   "amount": -34969.44,
+   "count": 299
+  },
+  {
+   "label": "Oct",
+   "amount": -58721.39,
+   "count": 380
+  },
+  {
+   "label": "Nov",
+   "amount": -48704.94,
+   "count": 341
+  },
+  {
+   "label": "Dec",
+   "amount": -52450.29,
+   "count": 239
+  }
+ ],
+ "refundStats": {
+  "count": 3791,
+  "rate": 3.27,
+  "total": -629445.26,
+  "grossOffset": -1.84,
+  "median": -47.61,
+  "largest": -6266.53
+ },
+ "travel": {
+  "spend": 2167096.03,
+  "count": 5883,
+  "share": 0.0647,
+  "roomCharges": 1605548.45,
+  "roomCount": 4258,
+  "airTravel": 561547.58,
+  "airCount": 1625
+ },
+ "quality": {
+  "blankDescriptions": 130,
+  "genericDescription": 75947,
+  "genericShare": 65.45,
+  "duplicateIds": 0,
+  "sameDayPosts": 5809,
+  "avgPostLag": 1.81,
+  "postLagMax": 133,
+  "weekendCount": 9718
+ }
+}
