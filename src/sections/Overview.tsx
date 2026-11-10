@@ -31,7 +31,7 @@ export default function Overview() {
             label="Net spend"
             value={k.netSpend}
             format={(v) => money(v)}
-            note={`Gross ${moneyCompact(k.grossSpend)} less ${moneyCompact(k.refunds)} in refunds`}
+            note={`Gross ${moneyCompact(k.grossSpend)} less ${moneyCompact(Math.abs(k.refunds))} in refunds`}
             accent
             size="lg"
           />
