@@ -7,8 +7,8 @@ const isGitHubActions = Boolean(
 );
 
 export default defineConfig({
-  // GitHub Pages serves this project at /pcardosu/; local Preview stays at /.
-  base: isGitHubActions ? "/pcardosu/" : "/",
+  // GitHub Pages serves this project at /pcardosu-manus-test/; local Preview stays at /.
+  base: isGitHubActions ? "/pcardosu-manus-test/" : "/",
   plugins: [react()],
   server: {
     host: "0.0.0.0",
